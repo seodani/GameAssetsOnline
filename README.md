@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------
 여기는 게임 에셋 보관 장소입니다.
-https://cdn.jsdelivr.net/gh/seodani/GameAssetsOnline/<assetName>
+https://cdn.jsdelivr.net/gh/seodani/GameAssetsOnline@master/
 --------------------------------------------------------------------------
 v1
