@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2772566946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 53536e099844ed82c32a4cdb2a188f68
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 26f8bbaab0542cd1a73f81916929fb1c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 53536e099844ed82c32a4cdb2a188f68
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/NewsData/NewsPrefab.prefab
+- Assets/NewsData/001.png
+Dependencies: []
