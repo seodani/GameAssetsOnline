@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 229751912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 20b9997ab4a4c3c9e54deefe728aab37
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 80022c32b0ad2d7f7bd14dda49bba978
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 20b9997ab4a4c3c9e54deefe728aab37
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab164e54e8cef1543ac2e80ae1c4b26e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/NewsData/NewsPrefab.prefab
+- Assets/NewsData/descimg001.jpg
+Dependencies: []
