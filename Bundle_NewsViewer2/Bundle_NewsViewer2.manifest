@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3452687198
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: newsdataab
+      Dependencies: {}
