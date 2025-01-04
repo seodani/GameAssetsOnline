@@ -1,0 +1,129 @@
+ManifestFileVersion: 0
+CRC: 2587249694
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68a6e92f5143b1fac70ce1d268b86941
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae1be5256b2c524a3e7a578783b52682
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 68a6e92f5143b1fac70ce1d268b86941
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 102
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cba61be3de2c4243bd10829d95dac1c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 278aea0d8a609984bbac6199ea5596d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5df948f8428a81c42a7753fc73aff977, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/Entry
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/TriggerEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/NewsData/newsimg/returnbtn.png
+- Assets/NewsData/newsimg/okbtn.png
+- Assets/NewsData/NewsPrefab.prefab
+- Assets/NewsData/newssnd/bgm.mp3
+- Assets/NewsData/newsanim/Feed_ColagenArm/FeedAnimate_ColagenArm.controller
+- Assets/NewsData/newsimg/AA1wbSa2.png
+- Assets/NewsData/newsanim/Feed_ColagenArm/Main.anim
+- Assets/NewsData/newsimg/AA1wVBGw.jpg
+- Assets/NewsData/newsimg/noroviruspop2.png
+- Assets/NewsData/newssnd/ADSync.mp3
+- Assets/NewsData/newsimg/txt_norovirus_subject2.png
+- Assets/NewsData/newsimg/AA1wbKHF.jpg
+- Assets/NewsData/newsimg/OIP1.jpg
+- Assets/NewsData/newsimg/BB1qScht.jpg
+- Assets/NewsData/newsimg/AA1uC6J3.jpg
+- Assets/NewsData/newssnd/IntroVisitor.mp3
+- Assets/NewsData/newsimg/earwarn.png
+- Assets/NewsData/newsimg/AnimNotLoading.png
+- Assets/NewsData/newssnd/Button.wav
+- Assets/NewsData/newsimg/noroviruspop1.png
+- Assets/NewsData/newsimg/norodeco.png
+- Assets/NewsData/newsimg/norovirus_guide.png
+- Assets/NewsData/newsimg/AA1uC6J5.jpg
+- Assets/NewsData/newsimg/AnimatedAtlas/Atlas_ColagenArm.png
+- Assets/NewsData/newsfnt/MaruBuri-Bold.ttf
+- Assets/NewsData/newsimg/safeplayerp.png
+Dependencies: []
